@@ -1,7 +1,7 @@
 # hola-mundo
 Repositorio de prueba por Oscar
 
-Auto Oscar D.
+Autor Oscar D.
 Fecha: 6 de febrero
 
 De nuevo aqui.
